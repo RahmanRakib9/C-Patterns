@@ -1,5 +1,5 @@
 #include <stdio.h>
-// Hollow Patterns
+// Hollow Pattern 1
 int main()
 {
     int i, n, j;
@@ -27,3 +27,4 @@ int main()
     }
     printf("\n");
 }
+// expec
